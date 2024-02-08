@@ -1,1 +1,5 @@
 Hellowwww Git
+
+used below commands to avoid error "make sure you configure your 'user.name' and 'user.email' in git." while comitting
+PS C:\Users\giree\Documents\HyperionDev\git\Python-Programming> git config --global user.name 'gireeshabogineni'
+PS C:\Users\giree\Documents\HyperionDev\git\Python-Programming> git config --global user.email 'gireesha.bogineni@gmail.com'
